@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baptiste BAYCHE</h1>
-<h3 align="center">A student in IUT computer science at Paul Sabatier (Toulouse)</h3>
+<h3 align="center">A second-year student pursuing a Bachelor's degree in Computer Science at Paul Sabatier University in Toulouse</h3>
 <h4 align="center"> Currently in the application development course: design, development and validation. </h4>
+
 - 👨‍💻 All of my projects are available at [baychebaptiste.com/](baychebaptiste.com/)
 
 - 📫 How to reach me **baptiste.bayche@gmail.com**
